@@ -6505,7 +6505,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="D1" library="diode" deviceset="ZENER-DIODE" device="ZD-2.5" value="4V6"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="Q1" library="dp_devices" deviceset="TRANSISTOR_BJT_NPN" device="-TO-92-ECB" value="2SC2458"/>
-<part name="Q2" library="dp_devices" deviceset="TRANSISTOR_BJT_PNP" device="-TO-92-ECB" value="MJB45H11"/>
+<part name="Q2" library="dp_devices" deviceset="TRANSISTOR_BJT_PNP" device="-TO-92-ECB" value="2SB1318"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="0309/V" value="395"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="D2" library="diode" deviceset="ZENER-DIODE" device="ZD-2.5"/>
@@ -6519,6 +6519,8 @@ DIN A4, landscape with location and doc. field</description>
 <text x="45.72" y="83.82" size="1.27" layer="91" font="vector">+3.5V supply to the rest of the reciever</text>
 <text x="93.98" y="91.44" size="1.27" layer="91" font="vector">6V for the servos</text>
 <text x="198.12" y="114.3" size="1.27" layer="91" font="vector">BATT conncetor</text>
+<text x="119.38" y="78.74" size="1.27" layer="91">Replacement:
+MJB45H11</text>
 </plain>
 <instances>
 <instance part="JP1" gate="A" x="193.04" y="114.3" smashed="yes">

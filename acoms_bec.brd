@@ -1542,7 +1542,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="12.7" y="8.382" size="1.27" layer="25" font="vector" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="12.7" y="14.732" size="1.27" layer="27" font="vector" ratio="10" rot="R180"/>
 </element>
-<element name="Q2" library="dp_devices" package="TO-92" value="MJB45H11" x="6.858" y="17.272" smashed="yes">
+<element name="Q2" library="dp_devices" package="TO-92" value="2SB1318" x="6.858" y="17.272" smashed="yes">
 <attribute name="NAME" x="4.318" y="20.32" size="1.27" layer="25" font="vector" ratio="10"/>
 <attribute name="VALUE" x="4.318" y="13.97" size="1.27" layer="27" font="vector" ratio="10"/>
 </element>
